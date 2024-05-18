@@ -1,8 +1,7 @@
-function App() {
+import MainContainer from './MainContainer'
 
-  return (
-    <div>Hello R3F!</div>
-  )
+function App() {
+  return <MainContainer />
 }
 
 export default App
